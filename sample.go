@@ -1,3 +1,3 @@
 package sample
 
-func sample(){}
+func sample(){123}
